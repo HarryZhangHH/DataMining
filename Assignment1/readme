@@ -1,0 +1,4 @@
+In this work, machine learning was evaluated for predicting
+mood based on a data gathered from human behaviour on a smartphone.
+An extensive approach to data preprocessing, analysis, feature engineering and model selection has been described. Several machine learning
+methods were evaluated and bench-marked on their performance, demonstrating that the models outperform a naive benchmark.
