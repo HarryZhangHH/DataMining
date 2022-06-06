@@ -1,0 +1,860 @@
+Fold: 0
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 64ms/step - loss: 0.5323 - mse: 0.2198 - val_loss: 0.6265 - val_mse: 0.4995
+Epoch 2/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2677 - mse: 0.1709 - val_loss: 0.5730 - val_mse: 0.5028
+Epoch 3/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2407 - mse: 0.1665 - val_loss: 0.6041 - val_mse: 0.5348
+Epoch 4/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2041 - mse: 0.1465 - val_loss: 0.5886 - val_mse: 0.5346
+Epoch 5/7
+27/27 [==============================] - 1s 20ms/step - loss: 0.2001 - mse: 0.1486 - val_loss: 0.5822 - val_mse: 0.5363
+Epoch 6/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.1906 - mse: 0.1462 - val_loss: 0.5292 - val_mse: 0.4843
+Epoch 7/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.1974 - mse: 0.1413 - val_loss: 0.5693 - val_mse: 0.5203
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 6.1409 - mse: 6.0920
+Fold: 1
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 55ms/step - loss: 1.5437 - mse: 1.1767 - val_loss: 0.5986 - val_mse: 0.3851
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2941 - mse: 1.1420 - val_loss: 0.5428 - val_mse: 0.4165
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2204 - mse: 1.0985 - val_loss: 0.4818 - val_mse: 0.3805
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2428 - mse: 1.1293 - val_loss: 0.4580 - val_mse: 0.3601
+Epoch 5/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1918 - mse: 1.0893 - val_loss: 0.5068 - val_mse: 0.4085
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1615 - mse: 1.0872 - val_loss: 0.4276 - val_mse: 0.3734
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1470 - mse: 1.0861 - val_loss: 0.4571 - val_mse: 0.3840
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.3159 - mse: 0.2428
+Fold: 2
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 60ms/step - loss: 1.4359 - mse: 1.1578 - val_loss: 0.4399 - val_mse: 0.3451
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1994 - mse: 1.1168 - val_loss: 0.4265 - val_mse: 0.3636
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1513 - mse: 1.1012 - val_loss: 0.3855 - val_mse: 0.3374
+Epoch 4/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1408 - mse: 1.0955 - val_loss: 0.3710 - val_mse: 0.3257
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1331 - mse: 1.0909 - val_loss: 0.3716 - val_mse: 0.3313
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1467 - mse: 1.1039 - val_loss: 0.3705 - val_mse: 0.3257
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1239 - mse: 1.0813 - val_loss: 0.3796 - val_mse: 0.3384
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 0.2639 - mse: 0.2227
+Fold: 3
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 5s 54ms/step - loss: 1.4284 - mse: 1.1539 - val_loss: 0.6446 - val_mse: 0.5180
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2288 - mse: 1.1174 - val_loss: 0.5668 - val_mse: 0.4871
+Epoch 3/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1987 - mse: 1.1093 - val_loss: 0.5950 - val_mse: 0.4898
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1895 - mse: 1.0924 - val_loss: 0.5720 - val_mse: 0.4905
+Epoch 5/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1797 - mse: 1.0969 - val_loss: 0.5506 - val_mse: 0.4848
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1440 - mse: 1.0887 - val_loss: 0.5346 - val_mse: 0.4663
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1681 - mse: 1.0924 - val_loss: 0.5502 - val_mse: 0.4821
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.2047 - mse: 0.1367
+Fold: 4
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 5s 54ms/step - loss: 1.6124 - mse: 1.2378 - val_loss: 0.7612 - val_mse: 0.5669
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.3044 - mse: 1.1266 - val_loss: 0.6517 - val_mse: 0.5038
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2699 - mse: 1.1339 - val_loss: 0.6695 - val_mse: 0.5250
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2401 - mse: 1.1056 - val_loss: 0.6545 - val_mse: 0.5426
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1929 - mse: 1.0996 - val_loss: 0.5880 - val_mse: 0.5097
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1382 - mse: 1.0704 - val_loss: 0.5597 - val_mse: 0.4938
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1610 - mse: 1.0882 - val_loss: 0.5757 - val_mse: 0.4867
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 0.2814 - mse: 0.1924
+Fold: 5
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 54ms/step - loss: 1.5507 - mse: 1.1643 - val_loss: 0.7229 - val_mse: 0.5147
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2595 - mse: 1.0967 - val_loss: 0.6124 - val_mse: 0.4778
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1709 - mse: 1.0731 - val_loss: 0.5650 - val_mse: 0.4959
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1893 - mse: 1.0754 - val_loss: 0.6418 - val_mse: 0.5147
+Epoch 5/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1988 - mse: 1.0873 - val_loss: 0.6042 - val_mse: 0.5127
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1211 - mse: 1.0522 - val_loss: 0.5810 - val_mse: 0.5206
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1149 - mse: 1.0526 - val_loss: 0.5557 - val_mse: 0.4936
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.4000 - mse: 0.3379
+Fold: 6
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 5s 54ms/step - loss: 1.4857 - mse: 1.1598 - val_loss: 0.6725 - val_mse: 0.5291
+Epoch 2/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.2681 - mse: 1.1257 - val_loss: 0.6115 - val_mse: 0.5034
+Epoch 3/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.2167 - mse: 1.1154 - val_loss: 0.6193 - val_mse: 0.5140
+Epoch 4/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1794 - mse: 1.0964 - val_loss: 0.5935 - val_mse: 0.5379
+Epoch 5/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1155 - mse: 1.0665 - val_loss: 0.6637 - val_mse: 0.5920
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1532 - mse: 1.0773 - val_loss: 0.5768 - val_mse: 0.5020
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1559 - mse: 1.0783 - val_loss: 0.5981 - val_mse: 0.5088
+Evaluate on test data
+3/3 [==============================] - 0s 6ms/step - loss: 0.2427 - mse: 0.1534
+Fold: 7
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 57ms/step - loss: 1.4866 - mse: 1.1577 - val_loss: 0.6254 - val_mse: 0.4787
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2419 - mse: 1.1178 - val_loss: 0.6251 - val_mse: 0.5197
+Epoch 3/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1937 - mse: 1.0934 - val_loss: 0.5580 - val_mse: 0.4848
+Epoch 4/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1129 - mse: 1.0569 - val_loss: 0.5241 - val_mse: 0.4775
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.0957 - mse: 1.0551 - val_loss: 0.5082 - val_mse: 0.4671
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1129 - mse: 1.0607 - val_loss: 0.4992 - val_mse: 0.4514
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.0977 - mse: 1.0511 - val_loss: 0.5095 - val_mse: 0.4671
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.2064 - mse: 0.1640
+Model: "sequential_249"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ bidirectional_498 (Bidirect  (None, 5, 256)           150528    
+ ional)                                                          
+                                                                 
+ dropout_554 (Dropout)       (None, 5, 256)            0         
+                                                                 
+ seq_self_attention_241 (Seq  (None, 5, 256)           16449     
+ SelfAttention)                                                  
+                                                                 
+ bidirectional_499 (Bidirect  (None, 256)              394240    
+ ional)                                                          
+                                                                 
+ dropout_555 (Dropout)       (None, 256)               0         
+                                                                 
+ dense_450 (Dense)           (None, 4)                 1028      
+                                                                 
+ dense_451 (Dense)           (None, 1)                 5         
+                                                                 
+=================================================================
+Total params: 562,250
+Trainable params: 562,250
+Non-trainable params: 0
+_________________________________________________________________
+None
+[1.00698403 0.94272976]
+Fold: 0
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 54ms/step - loss: 1.7014 - mse: 1.2361 - val_loss: 0.7470 - val_mse: 0.5078
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.3956 - mse: 1.1913 - val_loss: 0.6805 - val_mse: 0.5001
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2697 - mse: 1.1126 - val_loss: 0.7345 - val_mse: 0.5715
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2673 - mse: 1.1264 - val_loss: 0.5791 - val_mse: 0.4641
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1889 - mse: 1.0838 - val_loss: 0.5575 - val_mse: 0.4600
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1890 - mse: 1.0744 - val_loss: 0.5552 - val_mse: 0.4367
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2311 - mse: 1.0847 - val_loss: 0.5648 - val_mse: 0.4437
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.2829 - mse: 0.1618
+Fold: 1
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 68ms/step - loss: 1.5610 - mse: 1.1704 - val_loss: 0.6832 - val_mse: 0.4530
+Epoch 2/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.2704 - mse: 1.0973 - val_loss: 0.5997 - val_mse: 0.4469
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2084 - mse: 1.0849 - val_loss: 0.6064 - val_mse: 0.5100
+Epoch 4/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1865 - mse: 1.0737 - val_loss: 0.6321 - val_mse: 0.5165
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1653 - mse: 1.0725 - val_loss: 0.5547 - val_mse: 0.4731
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1493 - mse: 1.0662 - val_loss: 0.5868 - val_mse: 0.4728
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1766 - mse: 1.0721 - val_loss: 0.5281 - val_mse: 0.4404
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.5450 - mse: 0.4574
+Fold: 2
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 5s 54ms/step - loss: 1.4418 - mse: 1.1200 - val_loss: 0.6263 - val_mse: 0.4829
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1648 - mse: 1.0689 - val_loss: 0.5675 - val_mse: 0.4762
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1346 - mse: 1.0492 - val_loss: 0.5478 - val_mse: 0.4923
+Epoch 4/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.0912 - mse: 1.0407 - val_loss: 0.5654 - val_mse: 0.5131
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1001 - mse: 1.0519 - val_loss: 0.5693 - val_mse: 0.5271
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1070 - mse: 1.0538 - val_loss: 0.5992 - val_mse: 0.5464
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.0614 - mse: 1.0216 - val_loss: 0.5496 - val_mse: 0.5085
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.5056 - mse: 0.4646
+Fold: 3
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 55ms/step - loss: 1.6128 - mse: 1.2082 - val_loss: 0.5555 - val_mse: 0.3517
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.3290 - mse: 1.1517 - val_loss: 0.5567 - val_mse: 0.4126
+Epoch 3/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.2155 - mse: 1.1075 - val_loss: 0.5943 - val_mse: 0.4823
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1985 - mse: 1.1050 - val_loss: 0.4312 - val_mse: 0.3605
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1830 - mse: 1.0981 - val_loss: 0.4349 - val_mse: 0.3431
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1950 - mse: 1.0973 - val_loss: 0.4590 - val_mse: 0.3647
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1656 - mse: 1.0775 - val_loss: 0.4170 - val_mse: 0.3516
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.3570 - mse: 0.2916
+Fold: 4
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 62ms/step - loss: 1.5223 - mse: 1.1751 - val_loss: 0.6983 - val_mse: 0.5448
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2352 - mse: 1.1163 - val_loss: 0.6330 - val_mse: 0.5193
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2174 - mse: 1.1125 - val_loss: 0.6476 - val_mse: 0.5426
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1810 - mse: 1.0927 - val_loss: 0.5672 - val_mse: 0.5040
+Epoch 5/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1437 - mse: 1.0829 - val_loss: 0.5425 - val_mse: 0.4978
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1351 - mse: 1.0876 - val_loss: 0.5371 - val_mse: 0.4923
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1356 - mse: 1.0881 - val_loss: 0.5450 - val_mse: 0.5007
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.1601 - mse: 0.1158
+Fold: 5
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 61ms/step - loss: 1.6048 - mse: 1.2003 - val_loss: 0.6380 - val_mse: 0.4462
+Epoch 2/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.2738 - mse: 1.1272 - val_loss: 0.7113 - val_mse: 0.5703
+Epoch 3/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.2380 - mse: 1.1230 - val_loss: 0.6580 - val_mse: 0.5412
+Epoch 4/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1931 - mse: 1.1043 - val_loss: 0.5745 - val_mse: 0.4827
+Epoch 5/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1871 - mse: 1.1001 - val_loss: 0.5735 - val_mse: 0.4924
+Epoch 6/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1797 - mse: 1.0814 - val_loss: 0.5737 - val_mse: 0.4851
+Epoch 7/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1623 - mse: 1.0827 - val_loss: 0.5363 - val_mse: 0.4809
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.1778 - mse: 0.1225
+Fold: 6
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 59ms/step - loss: 0.4949 - mse: 0.2351 - val_loss: 0.6030 - val_mse: 0.5125
+Epoch 2/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2837 - mse: 0.2092 - val_loss: 0.5805 - val_mse: 0.5170
+Epoch 3/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2488 - mse: 0.1958 - val_loss: 0.5383 - val_mse: 0.4973
+Epoch 4/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.2261 - mse: 0.1846 - val_loss: 0.5255 - val_mse: 0.4906
+Epoch 5/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2401 - mse: 0.1899 - val_loss: 0.5600 - val_mse: 0.4946
+Epoch 6/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.2415 - mse: 0.1909 - val_loss: 0.5341 - val_mse: 0.4937
+Epoch 7/7
+27/27 [==============================] - 0s 19ms/step - loss: 0.2487 - mse: 0.2071 - val_loss: 0.5185 - val_mse: 0.4785
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 5.7245 - mse: 5.6845
+Fold: 7
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 58ms/step - loss: 1.5633 - mse: 1.2037 - val_loss: 0.6895 - val_mse: 0.5197
+Epoch 2/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.2867 - mse: 1.1299 - val_loss: 0.6953 - val_mse: 0.5440
+Epoch 3/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.3010 - mse: 1.1508 - val_loss: 0.6808 - val_mse: 0.5495
+Epoch 4/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.2618 - mse: 1.1220 - val_loss: 0.6105 - val_mse: 0.4805
+Epoch 5/7
+27/27 [==============================] - 0s 19ms/step - loss: 1.2241 - mse: 1.1149 - val_loss: 0.6145 - val_mse: 0.5077
+Epoch 6/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.2069 - mse: 1.1068 - val_loss: 0.6437 - val_mse: 0.5362
+Epoch 7/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1926 - mse: 1.1025 - val_loss: 0.5602 - val_mse: 0.4793
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 0.2027 - mse: 0.1218
+Model: "sequential_257"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ bidirectional_514 (Bidirect  (None, 5, 256)           150528    
+ ional)                                                          
+                                                                 
+ dropout_570 (Dropout)       (None, 5, 256)            0         
+                                                                 
+ seq_self_attention_249 (Seq  (None, 5, 256)           16449     
+ SelfAttention)                                                  
+                                                                 
+ bidirectional_515 (Bidirect  (None, 256)              394240    
+ ional)                                                          
+                                                                 
+ dropout_571 (Dropout)       (None, 256)               0         
+                                                                 
+ dense_466 (Dense)           (None, 4)                 1028      
+                                                                 
+ dense_467 (Dense)           (None, 1)                 5         
+                                                                 
+=================================================================
+Total params: 562,250
+Trainable params: 562,250
+Non-trainable params: 0
+_________________________________________________________________
+None
+[0.99445168 0.92747612]
+Fold: 0
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 59ms/step - loss: 1.4272 - mse: 1.1461 - val_loss: 0.5931 - val_mse: 0.4874
+Epoch 2/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1997 - mse: 1.1171 - val_loss: 0.6202 - val_mse: 0.5464
+Epoch 3/7
+27/27 [==============================] - 0s 19ms/step - loss: 1.1653 - mse: 1.1074 - val_loss: 0.5584 - val_mse: 0.4990
+Epoch 4/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1380 - mse: 1.0817 - val_loss: 0.5812 - val_mse: 0.5303
+Epoch 5/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1468 - mse: 1.1040 - val_loss: 0.5312 - val_mse: 0.4754
+Epoch 6/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1353 - mse: 1.0837 - val_loss: 0.5132 - val_mse: 0.4739
+Epoch 7/7
+27/27 [==============================] - 1s 20ms/step - loss: 1.1117 - mse: 1.0780 - val_loss: 0.5303 - val_mse: 0.4898
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 0.1348 - mse: 0.0942
+Fold: 1
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 61ms/step - loss: 0.5384 - mse: 0.2533 - val_loss: 0.6420 - val_mse: 0.5428
+Epoch 2/7
+27/27 [==============================] - 0s 19ms/step - loss: 0.2888 - mse: 0.2136 - val_loss: 0.6262 - val_mse: 0.5656
+Epoch 3/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.2451 - mse: 0.1963 - val_loss: 0.5684 - val_mse: 0.5279
+Epoch 4/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.2341 - mse: 0.1916 - val_loss: 0.5917 - val_mse: 0.5418
+Epoch 5/7
+27/27 [==============================] - 1s 20ms/step - loss: 0.2291 - mse: 0.1881 - val_loss: 0.5162 - val_mse: 0.4793
+Epoch 6/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.2232 - mse: 0.1857 - val_loss: 0.5448 - val_mse: 0.5070
+Epoch 7/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.2244 - mse: 0.1858 - val_loss: 0.5819 - val_mse: 0.5411
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 5.8615 - mse: 5.8206
+Fold: 2
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 62ms/step - loss: 1.4713 - mse: 1.1718 - val_loss: 0.6598 - val_mse: 0.5135
+Epoch 2/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.2643 - mse: 1.1273 - val_loss: 0.6746 - val_mse: 0.5579
+Epoch 3/7
+27/27 [==============================] - 1s 20ms/step - loss: 1.2065 - mse: 1.1048 - val_loss: 0.6020 - val_mse: 0.5051
+Epoch 4/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.2179 - mse: 1.1187 - val_loss: 0.6075 - val_mse: 0.5143
+Epoch 5/7
+27/27 [==============================] - 1s 20ms/step - loss: 1.1965 - mse: 1.1065 - val_loss: 0.6350 - val_mse: 0.5514
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1923 - mse: 1.1082 - val_loss: 0.6092 - val_mse: 0.5376
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1652 - mse: 1.0870 - val_loss: 0.6262 - val_mse: 0.5412
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.1855 - mse: 0.1005
+Fold: 3
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 59ms/step - loss: 1.4294 - mse: 1.1215 - val_loss: 0.6180 - val_mse: 0.4507
+Epoch 2/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.2028 - mse: 1.0852 - val_loss: 0.5163 - val_mse: 0.4219
+Epoch 3/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1482 - mse: 1.0516 - val_loss: 0.4813 - val_mse: 0.4191
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1156 - mse: 1.0615 - val_loss: 0.4822 - val_mse: 0.4217
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1145 - mse: 1.0576 - val_loss: 0.4605 - val_mse: 0.4148
+Epoch 6/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.0765 - mse: 1.0400 - val_loss: 0.4208 - val_mse: 0.3893
+Epoch 7/7
+27/27 [==============================] - 0s 15ms/step - loss: 1.0958 - mse: 1.0360 - val_loss: 0.4762 - val_mse: 0.4186
+Evaluate on test data
+3/3 [==============================] - 0s 5ms/step - loss: 0.4625 - mse: 0.4049
+Fold: 4
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 52ms/step - loss: 1.3408 - mse: 1.0802 - val_loss: 0.4738 - val_mse: 0.3768
+Epoch 2/7
+27/27 [==============================] - 0s 13ms/step - loss: 1.1410 - mse: 1.0624 - val_loss: 0.4207 - val_mse: 0.3599
+Epoch 3/7
+27/27 [==============================] - 0s 14ms/step - loss: 1.0845 - mse: 1.0377 - val_loss: 0.3950 - val_mse: 0.3315
+Epoch 4/7
+27/27 [==============================] - 0s 14ms/step - loss: 1.1334 - mse: 1.0486 - val_loss: 0.4540 - val_mse: 0.3695
+Epoch 5/7
+27/27 [==============================] - 0s 13ms/step - loss: 1.0923 - mse: 1.0204 - val_loss: 0.4253 - val_mse: 0.3594
+Epoch 6/7
+27/27 [==============================] - 0s 13ms/step - loss: 1.1256 - mse: 1.0448 - val_loss: 0.4405 - val_mse: 0.3523
+Epoch 7/7
+27/27 [==============================] - 0s 13ms/step - loss: 1.0992 - mse: 1.0204 - val_loss: 0.4332 - val_mse: 0.3545
+Evaluate on test data
+3/3 [==============================] - 0s 9ms/step - loss: 0.6106 - mse: 0.5319
+Fold: 5
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 54ms/step - loss: 1.7393 - mse: 1.2714 - val_loss: 0.6882 - val_mse: 0.4352
+Epoch 2/7
+27/27 [==============================] - 0s 13ms/step - loss: 1.3016 - mse: 1.1259 - val_loss: 0.6328 - val_mse: 0.4898
+Epoch 3/7
+27/27 [==============================] - 0s 13ms/step - loss: 1.3448 - mse: 1.1659 - val_loss: 0.5611 - val_mse: 0.4047
+Epoch 4/7
+27/27 [==============================] - 0s 14ms/step - loss: 1.2211 - mse: 1.1052 - val_loss: 0.6466 - val_mse: 0.5261
+Epoch 5/7
+27/27 [==============================] - 0s 12ms/step - loss: 1.2134 - mse: 1.1091 - val_loss: 0.5438 - val_mse: 0.4584
+Epoch 6/7
+27/27 [==============================] - 0s 14ms/step - loss: 1.1734 - mse: 1.0789 - val_loss: 0.5648 - val_mse: 0.4801
+Epoch 7/7
+27/27 [==============================] - 0s 13ms/step - loss: 1.1340 - mse: 1.0613 - val_loss: 0.4745 - val_mse: 0.4163
+Evaluate on test data
+3/3 [==============================] - 0s 6ms/step - loss: 0.2857 - mse: 0.2275
+Fold: 6
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 55ms/step - loss: 1.5383 - mse: 1.1926 - val_loss: 0.7343 - val_mse: 0.5497
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2421 - mse: 1.0808 - val_loss: 0.6143 - val_mse: 0.4914
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2262 - mse: 1.1087 - val_loss: 0.6322 - val_mse: 0.5170
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2085 - mse: 1.0934 - val_loss: 0.5982 - val_mse: 0.4936
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1888 - mse: 1.1000 - val_loss: 0.6141 - val_mse: 0.5234
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2043 - mse: 1.0996 - val_loss: 0.6063 - val_mse: 0.5016
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1787 - mse: 1.0914 - val_loss: 0.5659 - val_mse: 0.4946
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.2422 - mse: 0.1709
+Fold: 7
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 60ms/step - loss: 1.5424 - mse: 1.1920 - val_loss: 0.6635 - val_mse: 0.4815
+Epoch 2/7
+27/27 [==============================] - 1s 23ms/step - loss: 1.2725 - mse: 1.1300 - val_loss: 0.6366 - val_mse: 0.5093
+Epoch 3/7
+27/27 [==============================] - 1s 21ms/step - loss: 1.2032 - mse: 1.0950 - val_loss: 0.5895 - val_mse: 0.4973
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1666 - mse: 1.0932 - val_loss: 0.5913 - val_mse: 0.5049
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1713 - mse: 1.0825 - val_loss: 0.5975 - val_mse: 0.5228
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1402 - mse: 1.0704 - val_loss: 0.5788 - val_mse: 0.5095
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1156 - mse: 1.0496 - val_loss: 0.6128 - val_mse: 0.5537
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.2489 - mse: 0.1898
+Model: "sequential_265"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ bidirectional_530 (Bidirect  (None, 5, 256)           150528    
+ ional)                                                          
+                                                                 
+ dropout_586 (Dropout)       (None, 5, 256)            0         
+                                                                 
+ seq_self_attention_257 (Seq  (None, 5, 256)           16449     
+ SelfAttention)                                                  
+                                                                 
+ bidirectional_531 (Bidirect  (None, 256)              394240    
+ ional)                                                          
+                                                                 
+ dropout_587 (Dropout)       (None, 256)               0         
+                                                                 
+ dense_482 (Dense)           (None, 4)                 1028      
+                                                                 
+ dense_483 (Dense)           (None, 1)                 5         
+                                                                 
+=================================================================
+Total params: 562,250
+Trainable params: 562,250
+Non-trainable params: 0
+_________________________________________________________________
+None
+[1.00395572 0.94254509]
+Fold: 0
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 5s 55ms/step - loss: 1.3996 - mse: 1.1376 - val_loss: 0.5803 - val_mse: 0.4829
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1703 - mse: 1.0912 - val_loss: 0.5760 - val_mse: 0.5088
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1592 - mse: 1.0988 - val_loss: 0.6021 - val_mse: 0.5386
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1573 - mse: 1.0891 - val_loss: 0.5279 - val_mse: 0.4705
+Epoch 5/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1312 - mse: 1.0832 - val_loss: 0.5600 - val_mse: 0.5145
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1139 - mse: 1.0586 - val_loss: 0.5640 - val_mse: 0.5106
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1231 - mse: 1.0713 - val_loss: 0.5479 - val_mse: 0.4880
+Evaluate on test data
+3/3 [==============================] - 0s 6ms/step - loss: 0.1877 - mse: 0.1278
+Fold: 1
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 55ms/step - loss: 1.5155 - mse: 1.1398 - val_loss: 0.6514 - val_mse: 0.4666
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2689 - mse: 1.1293 - val_loss: 0.5758 - val_mse: 0.4662
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2124 - mse: 1.1063 - val_loss: 0.5532 - val_mse: 0.4557
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1908 - mse: 1.1049 - val_loss: 0.5059 - val_mse: 0.4217
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1560 - mse: 1.0924 - val_loss: 0.5114 - val_mse: 0.4579
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1517 - mse: 1.0627 - val_loss: 0.5285 - val_mse: 0.4508
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1539 - mse: 1.0891 - val_loss: 0.5462 - val_mse: 0.4926
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 0.2180 - mse: 0.1643
+Fold: 2
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 7s 74ms/step - loss: 1.5142 - mse: 1.1614 - val_loss: 0.7676 - val_mse: 0.6053
+Epoch 2/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.3193 - mse: 1.1532 - val_loss: 0.6581 - val_mse: 0.5033
+Epoch 3/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.2389 - mse: 1.1107 - val_loss: 0.5926 - val_mse: 0.4792
+Epoch 4/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1764 - mse: 1.0810 - val_loss: 0.5995 - val_mse: 0.5173
+Epoch 5/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1863 - mse: 1.0989 - val_loss: 0.6655 - val_mse: 0.5716
+Epoch 6/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1686 - mse: 1.0863 - val_loss: 0.6390 - val_mse: 0.5435
+Epoch 7/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1636 - mse: 1.0716 - val_loss: 0.6620 - val_mse: 0.5601
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 0.2706 - mse: 0.1687
+Fold: 3
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 58ms/step - loss: 1.6522 - mse: 1.2146 - val_loss: 0.7515 - val_mse: 0.5409
+Epoch 2/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.2442 - mse: 1.0943 - val_loss: 0.6288 - val_mse: 0.5082
+Epoch 3/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1665 - mse: 1.0620 - val_loss: 0.5964 - val_mse: 0.5068
+Epoch 4/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1620 - mse: 1.0780 - val_loss: 0.5519 - val_mse: 0.4833
+Epoch 5/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1613 - mse: 1.0671 - val_loss: 0.5976 - val_mse: 0.5172
+Epoch 6/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1144 - mse: 1.0544 - val_loss: 0.5596 - val_mse: 0.5089
+Epoch 7/7
+27/27 [==============================] - 0s 19ms/step - loss: 1.0880 - mse: 1.0356 - val_loss: 0.5272 - val_mse: 0.4820
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 0.3236 - mse: 0.2784
+Fold: 4
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 63ms/step - loss: 1.4926 - mse: 1.1711 - val_loss: 0.6419 - val_mse: 0.4975
+Epoch 2/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.2352 - mse: 1.1205 - val_loss: 0.6374 - val_mse: 0.5352
+Epoch 3/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.2092 - mse: 1.1100 - val_loss: 0.5798 - val_mse: 0.4827
+Epoch 4/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1953 - mse: 1.1130 - val_loss: 0.5451 - val_mse: 0.4848
+Epoch 5/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1355 - mse: 1.0805 - val_loss: 0.5785 - val_mse: 0.5157
+Epoch 6/7
+27/27 [==============================] - 0s 19ms/step - loss: 1.1180 - mse: 1.0672 - val_loss: 0.5876 - val_mse: 0.5336
+Epoch 7/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1328 - mse: 1.0626 - val_loss: 0.5477 - val_mse: 0.4833
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 0.1921 - mse: 0.1277
+Fold: 5
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 58ms/step - loss: 1.6124 - mse: 1.2089 - val_loss: 0.6961 - val_mse: 0.4943
+Epoch 2/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.2660 - mse: 1.1090 - val_loss: 0.7389 - val_mse: 0.5917
+Epoch 3/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.2103 - mse: 1.0809 - val_loss: 0.5863 - val_mse: 0.4922
+Epoch 4/7
+27/27 [==============================] - 0s 19ms/step - loss: 1.1429 - mse: 1.0637 - val_loss: 0.5777 - val_mse: 0.5023
+Epoch 5/7
+27/27 [==============================] - 0s 19ms/step - loss: 1.1459 - mse: 1.0619 - val_loss: 0.5657 - val_mse: 0.4883
+Epoch 6/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1219 - mse: 1.0560 - val_loss: 0.5051 - val_mse: 0.4405
+Epoch 7/7
+27/27 [==============================] - 0s 19ms/step - loss: 1.1297 - mse: 1.0611 - val_loss: 0.5820 - val_mse: 0.5151
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.3787 - mse: 0.3118
+Fold: 6
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 55ms/step - loss: 1.5175 - mse: 1.1662 - val_loss: 0.6015 - val_mse: 0.4196
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2321 - mse: 1.0831 - val_loss: 0.5829 - val_mse: 0.4693
+Epoch 3/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1819 - mse: 1.0791 - val_loss: 0.5654 - val_mse: 0.4286
+Epoch 4/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.2183 - mse: 1.0743 - val_loss: 0.5206 - val_mse: 0.4209
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1700 - mse: 1.0763 - val_loss: 0.4975 - val_mse: 0.4199
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1488 - mse: 1.0701 - val_loss: 0.6336 - val_mse: 0.5087
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1970 - mse: 1.0802 - val_loss: 0.5347 - val_mse: 0.4346
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.5618 - mse: 0.4618
+Fold: 7
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 61ms/step - loss: 0.7230 - mse: 0.3008 - val_loss: 0.5338 - val_mse: 0.3535
+Epoch 2/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.3840 - mse: 0.2430 - val_loss: 0.4171 - val_mse: 0.3099
+Epoch 3/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.3138 - mse: 0.2196 - val_loss: 0.4266 - val_mse: 0.3563
+Epoch 4/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2607 - mse: 0.1987 - val_loss: 0.4414 - val_mse: 0.3879
+Epoch 5/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2537 - mse: 0.2023 - val_loss: 0.3746 - val_mse: 0.3336
+Epoch 6/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2296 - mse: 0.1845 - val_loss: 0.3925 - val_mse: 0.3443
+Epoch 7/7
+27/27 [==============================] - 1s 19ms/step - loss: 0.2346 - mse: 0.1864 - val_loss: 0.3900 - val_mse: 0.3446
+Evaluate on test data
+3/3 [==============================] - 0s 9ms/step - loss: 5.8459 - mse: 5.8005
+Model: "sequential_273"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ bidirectional_546 (Bidirect  (None, 5, 256)           150528    
+ ional)                                                          
+                                                                 
+ dropout_602 (Dropout)       (None, 5, 256)            0         
+                                                                 
+ seq_self_attention_265 (Seq  (None, 5, 256)           16449     
+ SelfAttention)                                                  
+                                                                 
+ bidirectional_547 (Bidirect  (None, 256)              394240    
+ ional)                                                          
+                                                                 
+ dropout_603 (Dropout)       (None, 256)               0         
+                                                                 
+ dense_498 (Dense)           (None, 4)                 1028      
+                                                                 
+ dense_499 (Dense)           (None, 1)                 5         
+                                                                 
+=================================================================
+Total params: 562,250
+Trainable params: 562,250
+Non-trainable params: 0
+_________________________________________________________________
+None
+[0.99729284 0.93013752]
+Fold: 0
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 54ms/step - loss: 1.5756 - mse: 1.2020 - val_loss: 0.6187 - val_mse: 0.4420
+Epoch 2/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.2509 - mse: 1.1195 - val_loss: 0.6019 - val_mse: 0.4532
+Epoch 3/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.2550 - mse: 1.1183 - val_loss: 0.5845 - val_mse: 0.4697
+Epoch 4/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1831 - mse: 1.0983 - val_loss: 0.5391 - val_mse: 0.4724
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1586 - mse: 1.0928 - val_loss: 0.5064 - val_mse: 0.4539
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1543 - mse: 1.0793 - val_loss: 0.5434 - val_mse: 0.4568
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1764 - mse: 1.0876 - val_loss: 0.5373 - val_mse: 0.4546
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.2082 - mse: 0.1255
+Fold: 1
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 58ms/step - loss: 1.4274 - mse: 1.1253 - val_loss: 0.7117 - val_mse: 0.5682
+Epoch 2/7
+27/27 [==============================] - 0s 18ms/step - loss: 1.1994 - mse: 1.0807 - val_loss: 0.6480 - val_mse: 0.5530
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1244 - mse: 1.0509 - val_loss: 0.5579 - val_mse: 0.4779
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1440 - mse: 1.0546 - val_loss: 0.6043 - val_mse: 0.5290
+Epoch 5/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1261 - mse: 1.0555 - val_loss: 0.5961 - val_mse: 0.5289
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1021 - mse: 1.0409 - val_loss: 0.6203 - val_mse: 0.5412
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1010 - mse: 1.0319 - val_loss: 0.5854 - val_mse: 0.5085
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.4173 - mse: 0.3403
+Fold: 2
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 55ms/step - loss: 1.4876 - mse: 1.1737 - val_loss: 0.5207 - val_mse: 0.3498
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2697 - mse: 1.1206 - val_loss: 0.4236 - val_mse: 0.3068
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2307 - mse: 1.1153 - val_loss: 0.3952 - val_mse: 0.3062
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1633 - mse: 1.0884 - val_loss: 0.4236 - val_mse: 0.3313
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1703 - mse: 1.0914 - val_loss: 0.4129 - val_mse: 0.3284
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1364 - mse: 1.0717 - val_loss: 0.3594 - val_mse: 0.3082
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1143 - mse: 1.0623 - val_loss: 0.3783 - val_mse: 0.3269
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.3400 - mse: 0.2885
+Fold: 3
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 56ms/step - loss: 1.5351 - mse: 1.1933 - val_loss: 0.6452 - val_mse: 0.4777
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2619 - mse: 1.1251 - val_loss: 0.5808 - val_mse: 0.4769
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2239 - mse: 1.1149 - val_loss: 0.5973 - val_mse: 0.4915
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1982 - mse: 1.1131 - val_loss: 0.5792 - val_mse: 0.4813
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2320 - mse: 1.1079 - val_loss: 0.5682 - val_mse: 0.4613
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1911 - mse: 1.1020 - val_loss: 0.5448 - val_mse: 0.4752
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2181 - mse: 1.1173 - val_loss: 0.6682 - val_mse: 0.5549
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.2803 - mse: 0.1670
+Fold: 4
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 55ms/step - loss: 1.4864 - mse: 1.1625 - val_loss: 0.6760 - val_mse: 0.5024
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2607 - mse: 1.1199 - val_loss: 0.6943 - val_mse: 0.5730
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2406 - mse: 1.1232 - val_loss: 0.7320 - val_mse: 0.6192
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2312 - mse: 1.1239 - val_loss: 0.5864 - val_mse: 0.4706
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2308 - mse: 1.1086 - val_loss: 0.6671 - val_mse: 0.5681
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2027 - mse: 1.0988 - val_loss: 0.6613 - val_mse: 0.5721
+Epoch 7/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1784 - mse: 1.1012 - val_loss: 0.6362 - val_mse: 0.5442
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.2473 - mse: 0.1553
+Fold: 5
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 55ms/step - loss: 1.4403 - mse: 1.1455 - val_loss: 0.5686 - val_mse: 0.4657
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.2117 - mse: 1.1135 - val_loss: 0.5229 - val_mse: 0.4493
+Epoch 3/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1496 - mse: 1.0978 - val_loss: 0.5083 - val_mse: 0.4528
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1505 - mse: 1.0946 - val_loss: 0.4962 - val_mse: 0.4453
+Epoch 5/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1507 - mse: 1.0947 - val_loss: 0.4928 - val_mse: 0.4457
+Epoch 6/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1574 - mse: 1.0993 - val_loss: 0.5144 - val_mse: 0.4624
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.1364 - mse: 1.0899 - val_loss: 0.5050 - val_mse: 0.4548
+Evaluate on test data
+3/3 [==============================] - 0s 8ms/step - loss: 0.2088 - mse: 0.1586
+Fold: 6
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 60ms/step - loss: 1.4410 - mse: 1.1192 - val_loss: 0.6140 - val_mse: 0.4556
+Epoch 2/7
+27/27 [==============================] - 1s 23ms/step - loss: 1.2062 - mse: 1.0683 - val_loss: 0.5996 - val_mse: 0.4772
+Epoch 3/7
+27/27 [==============================] - 1s 22ms/step - loss: 1.1772 - mse: 1.0735 - val_loss: 0.5482 - val_mse: 0.4640
+Epoch 4/7
+27/27 [==============================] - 1s 19ms/step - loss: 1.1143 - mse: 1.0463 - val_loss: 0.5170 - val_mse: 0.4661
+Epoch 5/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.1080 - mse: 1.0512 - val_loss: 0.4937 - val_mse: 0.4388
+Epoch 6/7
+27/27 [==============================] - 0s 16ms/step - loss: 1.0844 - mse: 1.0289 - val_loss: 0.4832 - val_mse: 0.4358
+Epoch 7/7
+27/27 [==============================] - 0s 17ms/step - loss: 1.0940 - mse: 1.0475 - val_loss: 0.5477 - val_mse: 0.4897
+Evaluate on test data
+3/3 [==============================] - 0s 7ms/step - loss: 0.5198 - mse: 0.4618
+Fold: 7
+Train set shape: (938, 5, 18)    Test set shape: (134, 5, 18)
+Epoch 1/7
+27/27 [==============================] - 6s 65ms/step - loss: 0.4924 - mse: 0.2293 - val_loss: 0.6165 - val_mse: 0.5117
+Epoch 2/7
+27/27 [==============================] - 0s 17ms/step - loss: 0.2915 - mse: 0.2040 - val_loss: 0.5448 - val_mse: 0.4875
+Epoch 3/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.2623 - mse: 0.2039 - val_loss: 0.5351 - val_mse: 0.4797
+Epoch 4/7
+27/27 [==============================] - 0s 17ms/step - loss: 0.2453 - mse: 0.2006 - val_loss: 0.5338 - val_mse: 0.4895
+Epoch 5/7
+27/27 [==============================] - 0s 17ms/step - loss: 0.2448 - mse: 0.1936 - val_loss: 0.5356 - val_mse: 0.5007
+Epoch 6/7
+27/27 [==============================] - 1s 29ms/step - loss: 0.2260 - mse: 0.1881 - val_loss: 0.5360 - val_mse: 0.5025
+Epoch 7/7
+27/27 [==============================] - 0s 18ms/step - loss: 0.2268 - mse: 0.1873 - val_loss: 0.5428 - val_mse: 0.5030
+Evaluate on test data
+3/3 [==============================] - 0s 9ms/step - loss: 5.8564 - mse: 5.8165
+Model: "sequential_281"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ bidirectional_562 (Bidirect  (None, 5, 256)           150528    
+ ional)                                                          
+                                                                 
+ dropout_618 (Dropout)       (None, 5, 256)            0         
+                                                                 
+ seq_self_attention_273 (Seq  (None, 5, 256)           16449     
+ SelfAttention)                                                  
+                                                                 
+ bidirectional_563 (Bidirect  (None, 256)              394240    
+ ional)                                                          
+                                                                 
+ dropout_619 (Dropout)       (None, 256)               0         
+                                                                 
+ dense_514 (Dense)           (None, 4)                 1028      
+                                                                 
+ dense_515 (Dense)           (None, 1)                 5         
+                                                                 
+=================================================================
+Total params: 562,250
+Trainable params: 562,250
+Non-trainable params: 0
+_________________________________________________________________
+None
+[1.00975956 0.93920797]
